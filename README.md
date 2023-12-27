@@ -14,6 +14,7 @@ personal repository with stuff related to learning avr microcontroller
 - [Arduino Source Codes](https://github.com/arduino/ArduinoCore-avr)
 - [Blog - AVR Dude Options](https://www.ladyada.net/learn/avr/avrdude.html)
 - [Blog - AVR Programming in HEX](https://nuft.github.io/avr/2015/08/02/avr-hex-programming.html)
+- [avr-gcc Wiki](https://gcc.gnu.org/wiki/avr-gcc)
 
 
 ## FAQ
